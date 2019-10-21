@@ -1,5 +1,5 @@
 spring:
   application:
-    name: config-demo1
+    name: config-demo3
 server:
   port: 8081
